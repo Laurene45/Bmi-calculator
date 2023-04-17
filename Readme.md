@@ -5,7 +5,7 @@ BMI calculator allows you to calculate your ideal weight (BMI).
 
 It is an easy build for a complete beginner interested in learning basic concepts in react such as the useState hook
 
-[React-App.png]()
+[React-App.png](![React-App.png](https://github.com/Laurene45/Bmi-calculator/blob/main/src/assets/React-App.png?raw=true))
 
 ## Prerequisites
 
